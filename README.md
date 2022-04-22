@@ -19,17 +19,17 @@
   
   <a ><img align="center" src="https://github-readme-stats.vercel.app/api?username=clkaley&theme=radical" alt="Anurag's github stats" /></a> | <a><img align="center" <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clkaley&layout=compact&theme=radical"> /></a> |
 
-<details align="center" >
+
    <summary>💡  Github Status</summary>
-   <img  src="https://github-readme-stats.vercel.app/api?username=clkaley&theme=radical">
-</details>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=clkaley&theme=radical">
+
 <br />
 <br />
 
-<details align="center" >
+
    <summary>💻 Most Used Languages </summary>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clkaley&layout=compact&theme=radical">
-</details>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clkaley&layout=compact&theme=radical">
+
 
 
 
