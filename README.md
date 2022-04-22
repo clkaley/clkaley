@@ -3,19 +3,13 @@
 ### <p align="center"> Jr.Front-End Developer | Computer Engineering Student </p>
    
 ### Reach Out To Me
-
-
-  
 <a href="https://www.linkedin.com/in/aleynacelik/">
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left" />
 </a>
-<a href="clkkaley@gmail.com">
+<a href="mailto: clkkaley@gmail.com"">
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/gmail.svg" align="left" />
 </a>
 
-
-<br />
-<br />
 
 <br />
 <br />
