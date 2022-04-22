@@ -17,7 +17,7 @@
   <br />
   <br />
   
-  <a ><img align="center" src="https://github-readme-stats.vercel.app/api?username=clkaley&theme=radical" alt="Anurag's github stats" /></a> | <a><img align="center" <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clkaley&layout=compact&theme=radical"> /></a> |
+  <a ><img align="center" src="https://github-readme-stats.vercel.app/api?username=clkaley&theme=radical" alt="Anurag's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clkaley&layout=compact&theme=radical"> /></a> |
 
 
    <summary>💡  Github Status</summary>
