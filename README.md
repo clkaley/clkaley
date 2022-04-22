@@ -1,6 +1,6 @@
-## Hi there I'm Aleyna 👋
+## <h1 align="center"> Hi there I'm Aleyna 👋 </h1>
 
-### Jr.Front-End Developer | Computer Engineering Student
+<p align="center"> Jr.Front-End Developer | Computer Engineering Student </p>
    
   ### Reach Out To Me
   
@@ -9,8 +9,8 @@
 <br />
 <br />
 
-<!--[linkedin]:https://www.linkedin.com/in/aleynacelik/ -->
-<!--[gmail]:clkkaley@gmail.com -->
+[linkedin]:https://www.linkedin.com/in/aleynacelik/
+[gmail]:clkkaley@gmail.com
 
 
 
@@ -27,12 +27,12 @@
   <br />
 
 <details>
-   <summary>bulb: Github Status</summary>
+   <summary>💡  Github Status</summary>
    <img src="https://github-readme-stats.vercel.app/api?username=clkaley&theme=radical">
 </details>
 
 <details>
-   <summary>bulb: Most Used Languages </summary>
+   <summary>💻 Most Used Languages </summary>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clkaley&layout=compact&theme=radical">
 </details>
 
