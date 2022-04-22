@@ -4,18 +4,20 @@
    
   ### Reach Out To Me
   
- [<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left" />][linkedin]
-
-
+ [<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left" />][https://www.linkedin.com/in/aleynacelik/]
+ [<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/gmail.svg" align="left" />][clkkaley@gmail.com]
+<br/>
+<br/>
 
 [linkedin]:https://www.linkedin.com/in/aleynacelik/
 [gmail]:clkkaley@gmail.com
 
 https://www.linkedin.com/in/aleynacelik/
-clkkaley@gmail.com
+clkkaley@gmail.com*/
 
 
-  <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/[ICON SLUG].svg" />
+ ### Tech I Use
+
 
 <!--
 **clkaley/clkaley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
