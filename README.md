@@ -4,13 +4,23 @@
    
 ### Reach Out To Me
 
+  [linkedin]:https://www.linkedin.com/in/aleynacelik/
+[gmail]:clkkaley@gmail.com
+
   
+<a href="https://www.linkedin.com/in/aleynacelik/">
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left" />
+</a>
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/gmail.svg" align="left" />
+</a>
  [<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left" />][linkedin]
  [<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/gmail.svg" align="left" />][gmail]
 <br />
 <br />
 
-
+<br />
+<br />
 
 
 ### Tech I Use
@@ -30,14 +40,12 @@
    <img src="https://github-readme-stats.vercel.app/api?username=clkaley&theme=radical">
 </details>
 <br />
-<br />
+
 
 <details>
    <summary>💻 Most Used Languages </summary>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clkaley&layout=compact&theme=radical">
 </details>
 
-[linkedin]:https://www.linkedin.com/in/aleynacelik/
-[gmail]:clkkaley@gmail.com
 
 
