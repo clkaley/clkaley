@@ -4,18 +4,16 @@
    
 ### Reach Out To Me
 
-  [linkedin]:https://www.linkedin.com/in/aleynacelik/
-[gmail]:clkkaley@gmail.com
 
   
 <a href="https://www.linkedin.com/in/aleynacelik/">
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left" />
 </a>
-<a href="https://codesandbox.io/u/anuraghazra">
+<a href="clkkaley@gmail.com">
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/gmail.svg" align="left" />
 </a>
- [<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left" />][linkedin]
- [<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/gmail.svg" align="left" />][gmail]
+
+
 <br />
 <br />
 
@@ -49,3 +47,5 @@
 
 
 
+  [linkedin]:https://www.linkedin.com/in/aleynacelik/
+  [gmail]:clkkaley@gmail.com
