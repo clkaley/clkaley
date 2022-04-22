@@ -31,7 +31,7 @@
 
 
 
-### Reach Out To Me
+#### <h4 align="right"> Reach Out To Me </h4>
 <a href="https://www.linkedin.com/in/aleynacelik/">
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="right" />
 </a>
@@ -42,6 +42,7 @@
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" align="right"" />
 </a>                                                                                                  
 <br />
-<br />        
+<br />     
+                                                                                                      
   [linkedin]:https://www.linkedin.com/in/aleynacelik/
   [gmail]:clkkaley@gmail.com
