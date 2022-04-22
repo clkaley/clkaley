@@ -1,10 +1,10 @@
-### Hi there I'm Aleyna 👋
+## Hi there I'm Aleyna 👋
 
-# Jr.Front-End Developer | Computer Engineering Student
+### Jr.Front-End Developer | Computer Engineering Student
    
-  ## Reach Out To Me
+  ### Reach Out To Me
   
- [  <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/[linkedin].svg" align="left" />][linkedin]
+ [<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left" />][linkedin]
 
 
 
