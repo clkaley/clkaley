@@ -2,19 +2,7 @@
 
 ## <p align="center"> Jr.Front-End Developer | Computer Engineering Student </p>
    <br />
-
-### Reach Out To Me
-<a href="https://www.linkedin.com/in/aleynacelik/">
-  <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left" />
-</a>
-<a href="mailto: clkkaley@gmail.com"">
-  <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/gmail.svg" align="left" />
-</a>
-<a href="https://twitter.com/clkaley"">
-  <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" align="left" />
-</a>                                                                                                  
-<br />
-<br />                                                                 
+                                                         
 
 ### Tech I Use
   <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30" height="30">
@@ -43,5 +31,17 @@
 
 
 
+### Reach Out To Me
+<a href="https://www.linkedin.com/in/aleynacelik/">
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="right" />
+</a>
+<a href="mailto: clkkaley@gmail.com"">
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/gmail.svg" align="right" />
+</a>
+<a href="https://twitter.com/clkaley"">
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" align="right"" />
+</a>                                                                                                  
+<br />
+<br />        
   [linkedin]:https://www.linkedin.com/in/aleynacelik/
   [gmail]:clkkaley@gmail.com
