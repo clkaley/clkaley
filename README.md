@@ -16,22 +16,20 @@
   <br />
   <br />
   <br />
-  
-  <a ><img align="center" src="https://github-readme-stats.vercel.app/api?username=clkaley&theme=radical" alt="Anurag's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clkaley&layout=compact&theme=radical"> /></a> |
-
-
+  <details align="center" >
    <summary>💡  Github Status</summary>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=clkaley&theme=radical">
-
+</details>
 <br />
 <br />
 
-
+<details align="center" >
    <summary>💻 Most Used Languages </summary>
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clkaley&layout=compact&theme=radical">
+</details>
 
-
-
+<br />
+<br />
 
 
 <a href="https://www.linkedin.com/in/aleynacelik/">
