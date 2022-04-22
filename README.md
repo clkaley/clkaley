@@ -22,15 +22,14 @@
   
   <br />
   <br />
-  <br />
-  <br />
+
 
 <details>
    <summary>💡  Github Status</summary>
    <img src="https://github-readme-stats.vercel.app/api?username=clkaley&theme=radical">
 </details>
 <br />
-
+<br />
 
 <details>
    <summary>💻 Most Used Languages </summary>
