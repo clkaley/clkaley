@@ -16,14 +16,14 @@
   <br />
   <br />
   <br />
-  <details align="center" >
+  <details  >
    <summary>💡  Github Status</summary>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=clkaley&theme=radical">
 </details>
 <br />
 <br />
 
-<details align="center" >
+<details  >
    <summary>💻 Most Used Languages </summary>
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clkaley&layout=compact&theme=radical">
 </details>
