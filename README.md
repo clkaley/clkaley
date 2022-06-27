@@ -1,6 +1,6 @@
 # <h1 align="center"> Hi there I'm Aleyna 👋 </h1>
 
-## <p align="center">  Computer Engineering Student </p>
+## <p align="center">  Computer Engineer </p>
    <br />
                                                          
 
