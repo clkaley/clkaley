@@ -41,9 +41,7 @@
 <a href="mailto: clkkaley@gmail.com"">
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/gmail.svg" align="right" />
 </a>
-<a href="https://twitter.com/clkaley"">
-  <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" align="right"" />
-</a>                                                                                                  
+                                                                                                
 <br />
 <br />     
                                                                                                       
