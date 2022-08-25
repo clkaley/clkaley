@@ -3,7 +3,9 @@
 ## <p align="center">  Computer Engineer </p>
    <br />
                                                          
+- 🌱 I’m currently learning **React**
 
+- 📫 How to reach me **clkkaley@gmail.com**
 ### Tech I Use
 
 
@@ -26,10 +28,10 @@
 <br />
 <br />
 
-<details  >
-   <summary>💻 Most Used Languages </summary>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clkaley&layout=compact&theme=radical">
-</details>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=clkaley&show_icons=true&locale=en&layout=compact" alt="clkaley" />
+</p>
 
 <br />
 <br />
