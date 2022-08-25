@@ -1,6 +1,6 @@
-# <h1 align="center"> Hi there I'm Aleyna 👋 </h1>
+# <h1 align="center"> Hi there I'm Aleyna 👋  </h1>
 
-## <p align="center">  Computer Engineer </p>
+<p align="center">  Computer Engineer </p>
                                                          
 - 🌱 I’m currently learning **React**
 
