@@ -1,7 +1,6 @@
 # <h1 align="center"> Hi there I'm Aleyna 👋 </h1>
 
 ## <p align="center">  Computer Engineer </p>
-   <br />
                                                          
 - 🌱 I’m currently learning **React**
 
@@ -21,10 +20,7 @@
   <br />
   <br />
   <br />
-  <details  >
-   <summary>💡  Github Status</summary>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=clkaley&theme=radical">
-</details>
+
 <br />
 <br />
 
@@ -32,6 +28,12 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=clkaley&show_icons=true&locale=en&layout=compact" alt="clkaley" />
 </p>
+
+
+  <details  >
+   <summary>💡  Github Status</summary>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=clkaley&theme=radical">
+</details>
 
 <br />
 <br />
