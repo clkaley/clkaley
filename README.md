@@ -20,10 +20,10 @@
     <br />
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=clkaley&show_icons=true&locale=en&layout=compact" alt="clkaley" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clkaley&layout=compact&hide=html" alt="clkaley" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clkaley&layout=compact&hide=html" alt="clkaley" />
+
  <br />
 
   <details  >
