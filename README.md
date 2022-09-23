@@ -1,9 +1,11 @@
 # <h1 align="center"> Hi there I'm Aleyna 👋  </h1>
 
 <p align="center">  Computer Engineer </p>
-                                                         
-- 🌱 I’m currently learning **React**
 
+- 🔭 I’m currently developing **React, Redux** and **NextJS** projects
+
+- 🌱 I’m currently learning **Frontend techs**
+                                                         
 - 📫 How to reach me **clkkaley@gmail.com**
 ### Languages and Tools:
 
